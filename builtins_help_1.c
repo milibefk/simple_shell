@@ -89,6 +89,7 @@ void help_exit(void)
 /**
  * help_help - Displays information on the shellby builtin command 'help'.
  */
+
 void help_help(void)
 {
 	char *msg = "help: help\n\tSee all possible Shellby builtin commands.\n";

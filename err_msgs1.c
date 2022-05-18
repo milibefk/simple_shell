@@ -171,6 +171,7 @@ char *error_2_syntax(char **args)
 	_strcat(error, args[0]);
 	_strcat(error, "\" unexpected\n");
 
+	
 	free(hist_str);
 	return (error);
 }
