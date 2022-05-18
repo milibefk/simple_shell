@@ -158,3 +158,4 @@ int comparar_envi(char *comando)
 		return (1);
 	return (0);
 }
+

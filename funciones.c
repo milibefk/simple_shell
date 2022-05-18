@@ -36,3 +36,4 @@ int comparar(char *linea)
 	else
 		return (0);
 }
+
